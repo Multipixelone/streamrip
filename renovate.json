@@ -60,7 +60,7 @@
       "matchUpdateTypes": [
         "major"
       ],
-      "automerge": false
+      "automerge": true
     },
     {
       "description": "Nix updates run monthly with the shared automerge policy",
